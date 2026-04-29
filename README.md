@@ -10,4 +10,5 @@ Si vous n’avez pas le matériel nous vous proposons de vous envoyer un kit con
 Si vous trouvez des pistes d'améliorations je reste ouvert à toute requet : Trafikandars.workshop@gmail.com
 
 Conception 3D : Adem Koanda_Saurel
+
 Code : Côme Douville
